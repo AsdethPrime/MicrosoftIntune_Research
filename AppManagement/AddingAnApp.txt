@@ -1,0 +1,18 @@
+// Navigate to App sections 
+  Apps > All apps > Add
+  
+// Add an Android App 
+  App type: Android
+  Enter the google play url of the app 
+  
+// Add an android enterprise app 
+   App type: Android 
+   Enter the managed google play url for the app 
+    
+// Add an for iphone / iphone 
+   App type: iOS 
+   Name of the app, search 
+   Select the app you want in Intune
+   
+ 
+  
