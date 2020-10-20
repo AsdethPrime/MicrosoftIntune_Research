@@ -1,6 +1,8 @@
 // Navigate to App sections 
   Apps > All apps > Add
-  
+
+
+*************** Public app **************
 // Add an Android App 
   App type: Android
   Enter the google play url of the app 
@@ -31,6 +33,8 @@
   App type: Microsoft 365 apps / macOS 
   Select the app you want to add in Intune 
   
+*********************** Line of business app **************
+  
 // Android Line of business app ( internal app) 
   App type: Line of business app 
   Select app package file and enter the .apk file 
@@ -43,5 +47,21 @@
   App type: Line of business 
   Select: App package file 
   and upload the install file ( .msi, .msix and .msixbundle,  .appx, .appxbundle) 
+ 
+ 
+ **************************Build In apps **********************
+ // Build in iOS app 
+  App type: Built In app 
+  Select the built in app in the list of provided apps. 
+  
+  // Build in android app 
+    App type: Build in app 
+    Select the built-in app in the list provided 
+    
+  ********************** Web app *****************
+ // Web app 
+  App type: Web Link 
+  Enter a valid URL pointing to the web app 
+
  
   
