@@ -1,5 +1,5 @@
 // Navigate to App sections 
-  Apps > All apps > Add
+Apps > All apps > Add. The Select app type pane is displayed and allows you to select the App type
 
 
 *************** Public app **************
