@@ -1,0 +1,28 @@
+Log into Microsft Endpoint Manager admin center 
+  Apps > All Apps > Add 
+    Select App Types
+      Store app / iOS store app 
+      Add App 
+        Search the app store and type the name of the app in the search box 
+          click on the app you want and click SELECT 
+            App information page will be displayed 
+              Name: 
+              Description:
+              Publisher:
+              AppStore Url: 
+              Minimum OS: 
+              Application device type: 
+              Category: 
+              Show this as a featured app in the Company Portal: 
+              Information URL:
+              Privacy URL: 
+              Developer: 
+              Owner: 
+              Notes: 
+              Logo: 
+                NEXT 
+                  Select scope tags to optionally add score tag for the app 
+                  NEXT 
+                    Under Assignment select the group assignment for the app 
+                    NEXT 
+                      In the 'Review + Create' page select Create 
