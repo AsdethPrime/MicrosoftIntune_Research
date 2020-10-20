@@ -14,5 +14,34 @@
    Name of the app, search 
    Select the app you want in Intune
    
+// Add Microsoft store apps 
+  App type: Windows 
+  Enter the Microsoft url for the app 
+  
+// Add Mangaged Google Play apps 
+  Ap type: Managed Google Play 
+  Search the app by name 
+  Select the app in Intune 
+  
+ // Microsoft 365 apps for Windows 10 
+  App type: Microsoft 365 Apps / Windows 
+  Select the app you want to add in Intune 
+  
+// Microsoft 365 apps for macOS 
+  App type: Microsoft 365 apps / macOS 
+  Select the app you want to add in Intune 
+  
+// Android Line of business app ( internal app) 
+  App type: Line of business app 
+  Select app package file and enter the .apk file 
+  
+// iOS Line of business app 
+  App type: Line of business 
+  Select 'App package file' and upload the ipad file 
+  
+// Windows LOB app 
+  App type: Line of business 
+  Select: App package file 
+  and upload the install file ( .msi, .msix and .msixbundle,  .appx, .appxbundle) 
  
   
