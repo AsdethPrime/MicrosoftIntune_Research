@@ -1,0 +1,29 @@
+// Log into Microsoft Endpoint Manager admin center 
+
+Apps > All Apps > Add 
+  App type > Store app > Android store app 
+  Click Select which will launch the 'Add app' panel
+    App type: Android 
+    Enter the google play url 
+    
+    Under app information 
+      Name: Put the app name 
+      Description:
+      Publisher: 
+      Appstore Url: 
+      Minimum OS: 
+      Category:
+      Show this as a featured app in the Company portal: 
+      Information Url: 
+      Privacy Url: 
+      Developer: 
+      Owner: 
+      Notes:
+      Logo:
+        NEXT 
+          Select scope tags to optionally add scope tags for the app 
+            NEXT 
+              Under Assignments select the group assiment for the app 
+                NEXT 
+                  You get to 'Review + create' page , click Create when you are done. 
+    
