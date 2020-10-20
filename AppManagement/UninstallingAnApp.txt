@@ -1,0 +1,11 @@
+// Log into the environment 
+
+// Navigate to app sections 
+  Apps > App Apps 
+    *Select the app 
+    Assignments > Add Group 
+     * on the Add group pane select Uninstall 
+     Select 'Included Groups' and select the group you want to apply the uninstall assignment 
+     OK 
+      Under Excluded Groups select any group you want to be excluded from the uninstall assignment 
+      OK > Save 
